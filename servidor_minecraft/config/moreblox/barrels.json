@@ -1,0 +1,498 @@
+{
+  "1": {
+    "id": "minecraft_apple",
+    "open": "moreblox:apple_barrel",
+    "closed": "moreblox:closed_apple_barrel",
+    "resource": "minecraft:apple",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "2": {
+    "id": "minecraft_golden_apple",
+    "open": "moreblox:golden_apple_barrel",
+    "closed": "moreblox:closed_golden_apple_barrel",
+    "resource": "minecraft:golden_apple",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "3": {
+    "id": "minecraft_enchanted_golden_apple",
+    "open": "moreblox:enchanted_golden_apple_barrel",
+    "closed": "moreblox:closed_enchanted_golden_apple_barrel",
+    "resource": "minecraft:enchanted_golden_apple",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "4": {
+    "id": "minecraft_potato",
+    "open": "moreblox:potato_barrel",
+    "closed": "moreblox:closed_potato_barrel",
+    "resource": "minecraft:potato",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/potato"
+  },
+  "5": {
+    "id": "minecraft_baked_potato",
+    "open": "moreblox:baked_potato_barrel",
+    "closed": "moreblox:closed_baked_potato_barrel",
+    "resource": "minecraft:baked_potato",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "6": {
+    "id": "minecraft_poisonous_potato",
+    "open": "moreblox:poisonous_potato_barrel",
+    "closed": "moreblox:closed_poisonous_potato_barrel",
+    "resource": "minecraft:poisonous_potato",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "7": {
+    "id": "minecraft_carrot",
+    "open": "moreblox:carrot_barrel",
+    "closed": "moreblox:closed_carrot_barrel",
+    "resource": "minecraft:carrot",
+    "attract_mob_tag": "moreblox:barrel/attracted/carrots",
+    "breed_mob_tag": "moreblox:barrels/breeding/carrot"
+  },
+  "8": {
+    "id": "minecraft_golden_carrot",
+    "open": "moreblox:golden_carrot_barrel",
+    "closed": "moreblox:closed_golden_carrot_barrel",
+    "resource": "minecraft:golden_carrot",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/golden_carrot"
+  },
+  "9": {
+    "id": "minecraft_beetroot",
+    "open": "moreblox:beetroot_barrel",
+    "closed": "moreblox:closed_beetroot_barrel",
+    "resource": "minecraft:beetroot",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/beetroot"
+  },
+  "10": {
+    "id": "minecraft_wheat",
+    "open": "moreblox:wheat_barrel",
+    "closed": "moreblox:closed_wheat_barrel",
+    "resource": "minecraft:wheat",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/wheat"
+  },
+  "11": {
+    "id": "minecraft_kelp",
+    "open": "moreblox:kelp_barrel",
+    "closed": "moreblox:closed_kelp_barrel",
+    "resource": "minecraft:kelp",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "12": {
+    "id": "minecraft_sugar",
+    "open": "moreblox:sugar_barrel",
+    "closed": "moreblox:closed_sugar_barrel",
+    "resource": "minecraft:sugar",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "13": {
+    "id": "minecraft_sweet_berries",
+    "open": "moreblox:sweet_berry_barrel",
+    "closed": "moreblox:closed_sweet_berry_barrel",
+    "resource": "minecraft:sweet_berries",
+    "attract_mob_tag": "moreblox:barrel/attracted/berries",
+    "breed_mob_tag": "moreblox:barresl/breeding/sweet_berry"
+  },
+  "14": {
+    "id": "minecraft_glow_berries",
+    "open": "moreblox:glow_berry_barrel",
+    "closed": "moreblox:closed_glow_berry_barrel",
+    "resource": "minecraft:glow_berries",
+    "attract_mob_tag": "moreblox:barrel/attracted/berries",
+    "breed_mob_tag": "moreblox:barrels/breeding/glow_berry"
+  },
+  "15": {
+    "id": "minecraft_honeycomb",
+    "open": "moreblox:honeycomb_barrel",
+    "closed": "moreblox:closed_honeycomb_barrel",
+    "resource": "minecraft:honeycomb",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "16": {
+    "id": "minecraft_slimeball",
+    "open": "moreblox:slimeball_barrel",
+    "closed": "moreblox:closed_slimeball_barrel",
+    "resource": "minecraft:slime_ball",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/slime"
+  },
+  "17": {
+    "id": "minecraft_bone_meal",
+    "open": "moreblox:bone_meal_barrel",
+    "closed": "moreblox:closed_bone_meal_barrel",
+    "resource": "minecraft:bone_meal",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "18": {
+    "id": "minecraft_ink_sac",
+    "open": "moreblox:ink_sac_barrel",
+    "closed": "moreblox:closed_ink_sac_barrel",
+    "resource": "minecraft:ink_sac",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "19": {
+    "id": "minecraft_cocoa_beans",
+    "open": "moreblox:cocoa_beans_barrel",
+    "closed": "moreblox:closed_cocoa_beans_barrel",
+    "resource": "minecraft:cocoa_beans",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "20": {
+    "id": "minecraft_feather",
+    "open": "moreblox:feather_barrel",
+    "closed": "moreblox:closed_feather_barrel",
+    "resource": "minecraft:feather",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "21": {
+    "id": "minecraft_flint",
+    "open": "moreblox:flint_barrel",
+    "closed": "moreblox:closed_flint_barrel",
+    "resource": "minecraft:flint",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "22": {
+    "id": "minecraft_gunpowder",
+    "open": "moreblox:gunpowder_barrel",
+    "closed": "moreblox:closed_gunpowder_barrel",
+    "resource": "minecraft:gunpowder",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "23": {
+    "id": "minecraft_glowstone_dust",
+    "open": "moreblox:glowstone_dust_barrel",
+    "closed": "moreblox:closed_glowstone_dust_barrel",
+    "resource": "minecraft:glowstone_dust",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "24": {
+    "id": "minecraft_glow_ink_sac",
+    "open": "moreblox:glow_ink_sac_barrel",
+    "closed": "moreblox:closed_glow_ink_sac_barrel",
+    "resource": "minecraft:glow_ink_sac",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "25": {
+    "id": "minecraft_redstone",
+    "open": "moreblox:redstone_barrel",
+    "closed": "moreblox:closed_redstone_barrel",
+    "resource": "minecraft:redstone",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "26": {
+    "id": "minecraft_raw_iron",
+    "open": "moreblox:raw_iron_barrel",
+    "closed": "moreblox:closed_raw_iron_barrel",
+    "resource": "minecraft:raw_iron",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "27": {
+    "id": "minecraft_raw_gold",
+    "open": "moreblox:raw_gold_barrel",
+    "closed": "moreblox:closed_raw_gold_barrel",
+    "resource": "minecraft:raw_gold",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "28": {
+    "id": "minecraft_raw_copper",
+    "open": "moreblox:raw_copper_barrel",
+    "closed": "moreblox:closed_raw_copper_barrel",
+    "resource": "minecraft:raw_copper",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "29": {
+    "id": "minecraft_diamond",
+    "open": "moreblox:diamond_barrel",
+    "closed": "moreblox:closed_diamond_barrel",
+    "resource": "minecraft:diamond",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "30": {
+    "id": "minecraft_lapis_lazuli",
+    "open": "moreblox:lapis_lazuli_barrel",
+    "closed": "moreblox:closed_lapis_lazuli_barrel",
+    "resource": "minecraft:lapis_lazuli",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "31": {
+    "id": "minecraft_gold_nugget",
+    "open": "moreblox:gold_nugget_barrel",
+    "closed": "moreblox:closed_gold_nugget_barrel",
+    "resource": "minecraft:gold_nugget",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "32": {
+    "id": "minecraft_iron_nugget",
+    "open": "moreblox:iron_nugget_barrel",
+    "closed": "moreblox:closed_iron_nugget_barrel",
+    "resource": "minecraft:iron_nugget",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "33": {
+    "id": "minecraft_amethyst_shard",
+    "open": "moreblox:amethyst_shard_barrel",
+    "closed": "moreblox:closed_amethyst_shard_barrel",
+    "resource": "minecraft:amethyst_shard",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "34": {
+    "id": "minecraft_emerald",
+    "open": "moreblox:emerald_barrel",
+    "closed": "moreblox:closed_emerald_barrel",
+    "resource": "minecraft:emerald",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "35": {
+    "id": "minecraft_coal",
+    "open": "moreblox:coal_barrel",
+    "closed": "moreblox:closed_coal_barrel",
+    "resource": "minecraft:coal",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "36": {
+    "id": "minecraft_charcoal",
+    "open": "moreblox:charcoal_barrel",
+    "closed": "moreblox:closed_charcoal_barrel",
+    "resource": "minecraft:charcoal",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "37": {
+    "id": "minecraft_echo_shard",
+    "open": "moreblox:echo_shard_barrel",
+    "closed": "moreblox:closed_echo_shard_barrel",
+    "resource": "minecraft:echo_shard",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "38": {
+    "id": "minecraft_quartz",
+    "open": "moreblox:quartz_barrel",
+    "closed": "moreblox:closed_quartz_barrel",
+    "resource": "minecraft:quartz",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "39": {
+    "id": "minecraft_netherite_scrap",
+    "open": "moreblox:netherite_scrap_barrel",
+    "closed": "moreblox:closed_netherite_scrap_barrel",
+    "resource": "minecraft:netherite_scrap",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "40": {
+    "id": "minecraft_prismarine_crystals",
+    "open": "moreblox:prismarine_crystal_barrel",
+    "closed": "moreblox:closed_prismarine_crystal_barrel",
+    "resource": "minecraft:prismarine_crystals",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "41": {
+    "id": "minecraft_water_bucket",
+    "open": "moreblox:water_bucket_barrel",
+    "closed": "moreblox:closed_water_bucket_barrel",
+    "resource": "minecraft:water_bucket",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "42": {
+    "id": "minecraft_lava_bucket",
+    "open": "moreblox:lava_bucket_barrel",
+    "closed": "moreblox:closed_lava_bucket_barrel",
+    "resource": "minecraft:lava_bucket",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "43": {
+    "id": "minecraft_prismarine_shard",
+    "open": "moreblox:prismarine_shard_barrel",
+    "closed": "moreblox:closed_prismarine_shard_barrel",
+    "resource": "minecraft:prismarine_shard",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "44": {
+    "id": "minecraft_snowball",
+    "open": "moreblox:snowball_barrel",
+    "closed": "moreblox:closed_snowball_barrel",
+    "resource": "minecraft:snowball",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "45": {
+    "id": "minecraft_rotten_flesh",
+    "open": "moreblox:rotten_flesh_barrel",
+    "closed": "moreblox:closed_rotten_flesh_barrel",
+    "resource": "minecraft:rotten_flesh",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/rotten_flesh"
+  },
+  "46": {
+    "id": "minecraft_blaze_powder",
+    "open": "moreblox:blaze_powder_barrel",
+    "closed": "moreblox:closed_blaze_powder_barrel",
+    "resource": "minecraft:blaze_powder",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "47": {
+    "id": "minecraft_clay_ball",
+    "open": "moreblox:clay_ball_barrel",
+    "closed": "moreblox:closed_clay_ball_barrel",
+    "resource": "minecraft:clay_ball",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "48": {
+    "id": "minecraft_rabbit_foot",
+    "open": "moreblox:rabbit_foot_barrel",
+    "closed": "moreblox:closed_rabbit_foot_barrel",
+    "resource": "minecraft:rabbit_foot",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "49": {
+    "id": "minecraft_scute",
+    "open": "moreblox:scute_barrel",
+    "closed": "moreblox:closed_scute_barrel",
+    "resource": "minecraft:scute",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "50": {
+    "id": "minecraft_ghast_tear",
+    "open": "moreblox:ghast_tear_barrel",
+    "closed": "moreblox:closed_ghast_tear_barrel",
+    "resource": "minecraft:ghast_tear",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "51": {
+    "id": "minecraft_chorus_fruit",
+    "open": "moreblox:chorus_fruit_barrel",
+    "closed": "moreblox:closed_chorus_fruit_barrel",
+    "resource": "minecraft:chorus_fruit",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "52": {
+    "id": "minecraft_magma_cream",
+    "open": "moreblox:magma_cream_barrel",
+    "closed": "moreblox:closed_magma_cream_barrel",
+    "resource": "minecraft:magma_cream",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "53": {
+    "id": "minecraft_nether_star",
+    "open": "moreblox:nether_star_barrel",
+    "closed": "moreblox:closed_nether_star_barrel",
+    "resource": "minecraft:nether_star",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "54": {
+    "id": "minecraft_phantom_membrane",
+    "open": "moreblox:phantom_membrane_barrel",
+    "closed": "moreblox:closed_phantom_membrane_barrel",
+    "resource": "minecraft:phantom_membrane",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "55": {
+    "id": "minecraft_melon_slice",
+    "open": "moreblox:melon_slice_barrel",
+    "closed": "moreblox:closed_melon_slice_barrel",
+    "resource": "minecraft:melon_slice",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "56": {
+    "id": "minecraft_glistering_melon_slice",
+    "open": "moreblox:glistering_melon_slice_barrel",
+    "closed": "moreblox:closed_glistering_melon_slice_barrel",
+    "resource": "minecraft:glistering_melon_slice",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "57": {
+    "id": "minecraft_milk_bucket",
+    "open": "moreblox:milk_bucket_barrel",
+    "closed": "moreblox:closed_milk_bucket_barrel",
+    "resource": "minecraft:milk_bucket",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "58": {
+    "id": "minecraft_honey_bottle",
+    "open": "moreblox:honey_bottle_barrel",
+    "closed": "moreblox:closed_honey_bottle_barrel",
+    "resource": "minecraft:honey_bottle",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "59": {
+    "id": "minecraft_raw_cod",
+    "open": "moreblox:raw_cod_barrel",
+    "closed": "moreblox:closed_raw_cod_barrel",
+    "resource": "minecraft:cod",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/raw_cod"
+  },
+  "60": {
+    "id": "minecraft_raw_salmon",
+    "open": "moreblox:raw_salmon_barrel",
+    "closed": "moreblox:closed_raw_salmon_barrel",
+    "resource": "minecraft:salmon",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:barrels/breeding/raw_salmon"
+  },
+  "61": {
+    "id": "minecraft_pufferfish",
+    "open": "moreblox:pufferfish_barrel",
+    "closed": "moreblox:closed_pufferfish_barrel",
+    "resource": "minecraft:pufferfish",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  },
+  "62": {
+    "id": "minecraft_tropical_fish",
+    "open": "moreblox:tropical_fish_barrel",
+    "closed": "moreblox:closed_tropical_fish_barrel",
+    "resource": "minecraft:tropical_fish",
+    "attract_mob_tag": "moreblox:empty",
+    "breed_mob_tag": "moreblox:empty"
+  }
+}
