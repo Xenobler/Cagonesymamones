@@ -614,3 +614,24 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [10Apr2025 02:26:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has reached the goal [Easter]
 [10Apr2025 02:26:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Blade MoveSets]
 [10Apr2025 02:26:34.660] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [Iron_Girl_03] joined.
+[10Apr2025 02:31:12.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 was slain by Zombie
+[10Apr2025 02:31:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Your First Grave]
+[10Apr2025 02:31:12.754] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[10Apr2025 02:33:30.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 was slain by Spider
+[10Apr2025 02:33:30.226] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[10Apr2025 02:33:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has reached the goal [Here They Come]
+[10Apr2025 02:33:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Knowledge of Death]
+[10Apr2025 02:33:43.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has reached the goal [Chain Death]
+[10Apr2025 02:33:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 was slain by Zombie
+[10Apr2025 02:33:43.126] [Server thread/INFO] [tombstone/]: The player Iron_Girl_03 has successfully been saved
+[10Apr2025 02:33:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[10Apr2025 02:34:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Tiny Proud Soul]
+[10Apr2025 02:34:59.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Slash Blade]
+[10Apr2025 02:35:58.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HaruGlan[/127.42.97.5:48907] logged in with entity id 2063 at (29.721117523020848, 71.0, -64.09615385235988)
+[10Apr2025 02:35:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaruGlan joined the game
+[10Apr2025 02:35:58.930] [Server thread/INFO] [Jade/]: Syncing config to HaruGlan (310c50d7-50fc-3898-ba4c-18b3f3ae1ea0)
+[10Apr2025 02:35:58.931] [Server thread/INFO] [DistantHorizons-com.seibel.distanthorizons.core.api.internal.ServerApi/]: Player [HaruGlan] joined.
+[10Apr2025 02:36:40.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaruGlan has made the advancement [Tiny Proud Soul]
+[10Apr2025 02:36:40.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaruGlan has made the advancement [Slash Blade]
+[10Apr2025 02:36:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HaruGlan has made the advancement [Monster Hunter]
+[10Apr2025 02:37:23.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Iron_Girl_03 has made the advancement [Monster Hunter]
